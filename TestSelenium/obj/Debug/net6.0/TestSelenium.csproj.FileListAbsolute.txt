@@ -1,0 +1,302 @@
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\testhost.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\testhost.exe
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\nunit.engine.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\nunit.engine.api.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\nunit.engine.core.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\TestSelenium.deps.json
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\TestSelenium.runtimeconfig.json
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\TestSelenium.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\ref\TestSelenium.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\TestSelenium.pdb
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\nunit.framework.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\obj\Debug\net6.0\TestSelenium.csproj.AssemblyReference.cache
+D:\testing\TestSelenium\TestSelenium\TestSelenium\obj\Debug\net6.0\TestSelenium.GeneratedMSBuildEditorConfig.editorconfig
+D:\testing\TestSelenium\TestSelenium\TestSelenium\obj\Debug\net6.0\TestSelenium.AssemblyInfoInputs.cache
+D:\testing\TestSelenium\TestSelenium\TestSelenium\obj\Debug\net6.0\TestSelenium.AssemblyInfo.cs
+D:\testing\TestSelenium\TestSelenium\TestSelenium\obj\Debug\net6.0\TestSelenium.csproj.CoreCompileInputs.cache
+D:\testing\TestSelenium\TestSelenium\TestSelenium\obj\Debug\net6.0\TestSelenium.csproj.CopyComplete
+D:\testing\TestSelenium\TestSelenium\TestSelenium\obj\Debug\net6.0\TestSelenium.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\obj\Debug\net6.0\ref\TestSelenium.dll
+D:\testing\TestSelenium\TestSelenium\TestSelenium\obj\Debug\net6.0\TestSelenium.pdb
+D:\testing\TestSelenium\TestSelenium\TestSelenium\obj\Debug\net6.0\TestSelenium.genruntimeconfig.cache
+D:\testing\TestSelenium\TestSelenium\TestSelenium\bin\Debug\net6.0\WebDriver.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\testhost.exe
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\testhost.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\nunit.engine.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\TestSelenium.deps.json
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\TestSelenium.runtimeconfig.json
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\TestSelenium.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ref\TestSelenium.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\TestSelenium.pdb
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\nunit.framework.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\WebDriver.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\obj\Debug\net6.0\TestSelenium.csproj.AssemblyReference.cache
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\obj\Debug\net6.0\TestSelenium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\obj\Debug\net6.0\TestSelenium.AssemblyInfoInputs.cache
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\obj\Debug\net6.0\TestSelenium.AssemblyInfo.cs
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\obj\Debug\net6.0\TestSelenium.csproj.CoreCompileInputs.cache
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\obj\Debug\net6.0\TestSelenium.csproj.CopyComplete
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\obj\Debug\net6.0\TestSelenium.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\obj\Debug\net6.0\ref\TestSelenium.dll
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\obj\Debug\net6.0\TestSelenium.pdb
+C:\Файлы\QA engineer\git\SeleniumExample-master\TestSelenium\obj\Debug\net6.0\TestSelenium.genruntimeconfig.cache
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\testhost.exe
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\testhost.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\nunit.engine.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\nunit.engine.api.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\nunit.engine.core.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\TestSelenium.deps.json
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\TestSelenium.runtimeconfig.json
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\TestSelenium.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ref\TestSelenium.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\TestSelenium.pdb
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\nunit.framework.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\WebDriver.Support.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\WebDriver.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\obj\Debug\net6.0\TestSelenium.csproj.AssemblyReference.cache
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\obj\Debug\net6.0\TestSelenium.GeneratedMSBuildEditorConfig.editorconfig
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\obj\Debug\net6.0\TestSelenium.AssemblyInfoInputs.cache
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\obj\Debug\net6.0\TestSelenium.AssemblyInfo.cs
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\obj\Debug\net6.0\TestSelenium.csproj.CoreCompileInputs.cache
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\obj\Debug\net6.0\TestSelenium.csproj.CopyComplete
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\obj\Debug\net6.0\TestSelenium.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\obj\Debug\net6.0\ref\TestSelenium.dll
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\obj\Debug\net6.0\TestSelenium.pdb
+C:\файлы\QA\git\SeleniumExample-master\TestSelenium\obj\Debug\net6.0\TestSelenium.genruntimeconfig.cache
